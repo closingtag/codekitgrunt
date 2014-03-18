@@ -1,0 +1,16 @@
+// Please install bourbon with "gem install bourbon" and run "bourbon install" within the folder /css/scss/
+// See instructions "Install for a Non-Rails App" on http://bourbon.io/
+// @import "bourbon/bourbon"; 
+
+$color-base: #2d5e8b;
+
+.class1 {
+  background-color: $color-base;
+}
+.class2 {
+  background-color: #fff;
+  color: $color-base;
+}
+.class3 {
+  border: 1px solid $color-base;
+}

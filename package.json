@@ -1,0 +1,20 @@
+{
+  "name": "codekitgrunt",
+  "version": "0.0.0",
+  "description": "A example grunt configuration for replacing Codekit",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Weber",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-contrib-less": "~0.10.0",
+    "grunt-contrib-stylus": "~0.13.2",
+    "grunt-contrib-compass": "~0.7.2",
+    "grunt-bless": "~0.1.1",
+    "grunt-contrib-watch": "~0.6.0"
+  }
+}
